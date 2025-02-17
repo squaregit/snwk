@@ -1,0 +1,44 @@
+.abt_head{
+    font-size: 50px;
+    font-weight: 600;
+}
+.abt_sec{
+    background: #ff03032b;
+}
+
+.abt_sec img{
+border-radius: 25px;
+}
+
+.our_vlu{
+    text-align: center;
+    font-size: 45px;
+    font-weight: 600;
+    margin-bottom: 40px;
+}
+
+.abt_our_each{
+    text-align: center;
+  padding: 20px;
+  border-radius: 20px;
+  background: #eee7e7;
+  min-height: 250px;
+  transition: 0.3s;
+}
+
+.abt_our_each:hover{
+transform: scale(1.1);
+}
+
+.abt_our_each span{
+    font-size: 18px;
+}
+.abt_our_each h3{
+    font-size: 30px;
+}
+
+.abt_our_each svg{
+    margin-bottom: 15px;
+    width: 80px;
+    height: 80px;
+}
